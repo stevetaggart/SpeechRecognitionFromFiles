@@ -28,5 +28,12 @@ msbuild.log
 msbuild.err
 msbuild.wrn
 
-# Visual Studio 2015
+# Visual Studio
 .vs/
+
+# JetBrains
+.idea/
+
+# Audio files
+*.mp3
+*.wav
